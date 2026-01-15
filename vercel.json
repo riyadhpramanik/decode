@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "decode.py.py"
+      "destination": "/api/decode.py"
     }
   ]
 }
